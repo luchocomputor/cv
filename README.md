@@ -11,5 +11,3 @@ The class file `resume.cls` sits next to the source, so a plain compilation is e
 ```sh
 pdflatex cv.tex
 ```
-
-Every push that touches `cv.tex` or `resume.cls` triggers a GitHub Actions run that recompiles `cv.pdf` and commits it back.
