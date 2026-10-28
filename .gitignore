@@ -5,3 +5,9 @@
 *.fls
 *.fdb_latexmk
 *.synctex.gz
+
+# Local only
+.DS_Store
+.github/
+cv_quant.tex
+ALMAIRAC_cv_quant.pdf

@@ -1,6 +1,6 @@
 # CV
 
-Louis Almairac — Master MVA (ENS Paris-Saclay) and École des Ponts. Machine learning for time-series and biosignals.
+Louis Almairac — Master MVA (ENS Paris-Saclay) and École des Ponts. Machine learning for time series and biosignals.
 
 [**Download the PDF**](cv.pdf)
 
